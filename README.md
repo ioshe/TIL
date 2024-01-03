@@ -35,5 +35,6 @@
 
 
 ---
-Airflow(https://github.com/ioshe/TIL/tree/main/airflow)
-
+- [Airflow](https://github.com/ioshe/TIL/tree/main/airflow)
+-- 데이터파이프라인이란&Airflow 소개
+-- Airflow를 선택하는 이유
