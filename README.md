@@ -47,3 +47,5 @@
     - [java 살펴보기(5)_객체지향프로그래밍.md](https://github.com/ioshe/TIL/blob/main/Java/java%20%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0(5)_%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.md)
     - [java 살펴보기(6)_접근제어자.md](https://github.com/ioshe/TIL/blob/main/Java/java%20%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0(6)_%EC%A0%91%EA%B7%BC%EC%A0%9C%EC%96%B4%EC%9E%90.md)
     - [java 살펴보기(7)_static제어자](https://github.com/ioshe/TIL/blob/main/Java/java%20%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0(7)_static%EC%A0%9C%EC%96%B4%EC%9E%90.md)
+    - [java 살펴보기(8)_예외처리.md](https://github.com/ioshe/TIL/blob/main/Java/java%20%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0(8)_%EC%98%88%EC%99%B8%EC%B2%98%EB%A6%AC.md)
+    - [java 살펴보기(9)_lambda.md](https://github.com/ioshe/TIL/blob/main/Java/java%20%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0(9)_lambda.md)
