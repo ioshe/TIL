@@ -16,7 +16,7 @@
     
     ** 다시 말해 웹 브라우저에서 클라이언트가 요청하여 실행할 수 있는 자바 프로그램이다.
     
-    <img src = "../data/Servlet의 계층구조.png">
+    <img src = "../data/Servlet(1)Servlet의 계층구조.png">
     
 - **JSP(JavaServer Page)** : JSP는 서블릿과 유사하다. 서블릿은 완벽하게 자바 언어로 구현해야 하지만, JSP는 HTML 페이지 안에서 스크립트 형태로 구현한다. 또한 서블릿은 컨트롤러(Controller) 페이지를 만들 때 사용하지만, JSP는 뷰(View)페이지를 만들 때 사용한다.
     
