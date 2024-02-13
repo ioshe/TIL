@@ -1,7 +1,4 @@
 # airflow 살펴보기(1)
-aa
-텍스트: 데이터파이프라인이란?, Airflow 소개
-🌆 공부 과목 DB: airflow (https://www.notion.so/airflow-8f8254a1a5f14d8ea7afa2f35b847c52?pvs=21)
 
 1. 데이터파이프라인이란?
     - 만약 날씨를 알려주는 프로젝트를 진행한다고 하였을 때 작업의 단계를 3가지로 나눌 수 있다.
