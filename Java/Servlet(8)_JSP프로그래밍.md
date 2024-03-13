@@ -58,7 +58,7 @@
 - _jspService() 메소드는 JSP가 실행될 때마다 자동으로 호출되는 메소드이다.
 - 모든 JSP가 자바 소스로 변환될 때 _jspService() 메소드가 삽입되는데, 이때 _jspService()메소드 내에 항상 삽입되는 코드가 있고 그 코드는 아래와 같다.
     
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/3a8f5871-50ff-4968-ab22-97950ee212cc/bedecf0a-aa51-49bd-9e5e-11cbfee1aad6/Untitled.png)
+<img src="../data/Servlet(8)_jspService()구조.png">
     
 
 ### 9-4. JSP 태그
